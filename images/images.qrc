@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo-qt.png</file>
+        <file>q_app_logo.png</file>
+        <file>q_exit.png</file>
+        <file>q_circle_green.png</file>
+        <file>q_circle_red.png</file>
+        <file>q_circle_gray.png</file>
+        <file>q_comport.png</file>
+        <file>q_refresh.png</file>
+        <file>q_settings.png</file>
+    </qresource>
+</RCC>

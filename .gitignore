@@ -1,3 +1,22 @@
+# Project specific
+*.pro.user
+*.log
+zzz
+xxx
+.qmake.stash
+Makefile
+Makefile.Debug
+Makefile.Release
+debug
+release
+report
+Users*AppData*
+.qtc_clangd
+.qmake.stash
+object_script*
+Makefile*
+dist/*
+
 # Prerequisites
 *.d
 
